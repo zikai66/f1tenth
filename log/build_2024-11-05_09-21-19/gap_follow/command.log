@@ -1,0 +1,6 @@
+Invoking command in '/home/zzk/sim_ws/build/gap_follow': CMAKE_PREFIX_PATH=/home/zzk/sim_ws/install/f1tenth_gym_ros:/opt/ros/foxy /usr/bin/cmake /home/zzk/sim_ws/src/gap_follow -DCMAKE_INSTALL_PREFIX=/home/zzk/sim_ws/install/gap_follow
+Invoked command in '/home/zzk/sim_ws/build/gap_follow' returned '0': CMAKE_PREFIX_PATH=/home/zzk/sim_ws/install/f1tenth_gym_ros:/opt/ros/foxy /usr/bin/cmake /home/zzk/sim_ws/src/gap_follow -DCMAKE_INSTALL_PREFIX=/home/zzk/sim_ws/install/gap_follow
+Invoking command in '/home/zzk/sim_ws/build/gap_follow': CMAKE_PREFIX_PATH=/home/zzk/sim_ws/install/f1tenth_gym_ros:/opt/ros/foxy /usr/bin/cmake --build /home/zzk/sim_ws/build/gap_follow -- -j2 -l2
+Invoked command in '/home/zzk/sim_ws/build/gap_follow' returned '0': CMAKE_PREFIX_PATH=/home/zzk/sim_ws/install/f1tenth_gym_ros:/opt/ros/foxy /usr/bin/cmake --build /home/zzk/sim_ws/build/gap_follow -- -j2 -l2
+Invoking command in '/home/zzk/sim_ws/build/gap_follow': CMAKE_PREFIX_PATH=/home/zzk/sim_ws/install/f1tenth_gym_ros:/opt/ros/foxy /usr/bin/cmake --install /home/zzk/sim_ws/build/gap_follow
+Invoked command in '/home/zzk/sim_ws/build/gap_follow' returned '0': CMAKE_PREFIX_PATH=/home/zzk/sim_ws/install/f1tenth_gym_ros:/opt/ros/foxy /usr/bin/cmake --install /home/zzk/sim_ws/build/gap_follow
